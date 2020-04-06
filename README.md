@@ -3,7 +3,8 @@
 # Features of this Project: 
 
 1. Count How many Words Presnt in this Text File?
-2. Count How many Sentences Presnt in this Text File?-3.Check a word is present in this Text File?
+2. Count How many Sentences Presnt in this Text File?
+3. Check a word is present in this Text File?
 4. Count How many times a word repeats in this Text File?
 5. Count How many times a letter repeats in this Text File?
 6. Count Total Lines No
