@@ -2,7 +2,7 @@
 
 Features of this Project: 
 
--1.Count How many Words Presnt in this Text File?
+-1.Count How many Words Presnt in this Text File?\n
 -2.Count How many Sentences Presnt in this Text File?
 -3.Check a word is present in this Text File?
 -4.Count How many times a word repeats in this Text File?
