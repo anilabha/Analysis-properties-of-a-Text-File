@@ -18,3 +18,6 @@
 # Things You need to know that this program only works with Text file that is .txt file. Example-: Hello.txt
 
 # Feel free to add new features in this program.
+# Screenshots
+ ![Screenshot1](https://raw.githubusercontent.com/anilabha/Analysis-properties-of-a-Text-File/master/Screenshot%20(1).png)
+  ![Screenshot2](https://github.com/anilabha/Analysis-properties-of-a-Text-File/blob/master/Screenshot%20(2).png)
